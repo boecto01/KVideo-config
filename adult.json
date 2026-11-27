@@ -316,9 +316,8 @@
     "name": "🔞-黄AVZY",
     "baseUrl": "https://www.pgxdy.com/api/json.php",
     "group": "premium",
-    "enabled": false,
-    "priority": 101,
-    "_comment": "超时/宕机"
+    "enabled": true,
+    "priority": 5
   },
   {
     "id": "danaizi",
@@ -326,7 +325,7 @@
     "baseUrl": "https://apidanaizi.com/api.php/provide/vod",
     "group": "premium",
     "enabled": false,
-    "priority": 113,
+    "priority": 114,
     "_comment": "搜索无结果"
   },
   {
@@ -335,8 +334,8 @@
     "baseUrl": "https://www.msnii.com/api/json.php",
     "group": "premium",
     "enabled": false,
-    "priority": 113,
-    "_comment": "超时/宕机"
+    "priority": 114,
+    "_comment": "搜索无结果"
   },
   {
     "id": "kxgav",
@@ -344,8 +343,8 @@
     "baseUrl": "https://www.kxgav.com/api/json.php",
     "group": "premium",
     "enabled": false,
-    "priority": 113,
-    "_comment": "超时/宕机"
+    "priority": 114,
+    "_comment": "搜索无结果"
   },
   {
     "id": "naixiang",
@@ -353,7 +352,7 @@
     "baseUrl": "https://Naixxzy.com/api.php/provide/vod",
     "group": "premium",
     "enabled": false,
-    "priority": 125,
+    "priority": 126,
     "_comment": "接口解析错误"
   },
   {
